@@ -30,5 +30,4 @@ This repository contains basic Java and Python programs created for learning pro
 ## Purpose
 This repository is maintained to practice and improve programming skills in Java and Python.
 
-## Author
-Reeba Tahir
+
