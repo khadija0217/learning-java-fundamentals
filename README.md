@@ -1,4 +1,4 @@
-# Learning Java & Python Fundamentals
+# Learning Java  Fundamentals
 
 This repository contains basic Java programs created for learning programming fundamentals.
 
